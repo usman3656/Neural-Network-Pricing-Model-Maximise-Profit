@@ -4,8 +4,6 @@
 
 The **Neural Network Pricing Model - Maximize Profit** is a machine learning project designed to help businesses optimize their pricing strategies to maximize profit. This project leverages neural networks, a subset of deep learning, to create predictive models that can estimate the optimal prices for products or services. By using historical data, this model can help businesses make data-driven decisions to set prices that lead to increased profitability.
 
-![Neural Network Pricing Model](neural_network.png)
-
 ![image](https://github.com/usman3656/Neural-Network-Pricing-Model-Maximise-Profit/assets/91872457/1855277f-70a3-457c-8554-a45b9ffa044c)
 
 ## Table of Contents
